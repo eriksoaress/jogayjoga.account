@@ -1,4 +1,4 @@
-package insper.bet.account;
+package insper.passify.account;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PathVariable;
