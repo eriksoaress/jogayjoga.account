@@ -1,5 +1,5 @@
-insper\passify\account\AccountIn$AccountInBuilder.class
-insper\passify\account\AccountIn.class
-insper\passify\account\AccountOut$AccountOutBuilder.class
-insper\passify\account\AccountOut.class
-insper\passify\account\AccountController.class
+insper\ingressify\account\AccountController.class
+insper\ingressify\account\AccountOut$AccountOutBuilder.class
+insper\ingressify\account\AccountIn.class
+insper\ingressify\account\AccountIn$AccountInBuilder.class
+insper\ingressify\account\AccountOut.class

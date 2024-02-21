@@ -1,13 +1,14 @@
-package insper.passify.account;
+package insper.ingressify.account;
 
 import lombok.Builder;
 import lombok.experimental.Accessors;
+
 @Builder
 @Accessors(fluent = true, chain = true)
-public record AccountOut (
-    String id,
+public record AccountIn (
     String name,
-    String email
-){
+    String email,
+    String password
+) {
 
 }
