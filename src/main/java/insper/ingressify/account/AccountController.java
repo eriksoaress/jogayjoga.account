@@ -11,6 +11,10 @@ public interface AccountController {
     public ResponseEntity<AccountOut> create(
         @RequestBody(required=true) AccountIn in);
 
+    @PostMapping("/accounts/login")
+    public ResponseEntity<AccountOut> login(
+        @RequestBody(required=true) LoginIn in);
+
     @PutMapping("/accounts/{id}")
     public ResponseEntity<AccountOut> update(
         @PathVariable(required = true) String id,
