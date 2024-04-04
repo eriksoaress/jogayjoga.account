@@ -1,4 +1,4 @@
-package insper.ingressify.account;
+package jogayjoga.account;
 
 import lombok.Builder;
 import lombok.experimental.Accessors;
