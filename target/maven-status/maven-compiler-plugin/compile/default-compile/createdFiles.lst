@@ -1,7 +1,7 @@
-insper\ingressify\account\AccountController.class
-insper\ingressify\account\LoginIn.class
-insper\ingressify\account\AccountIn$AccountInBuilder.class
-insper\ingressify\account\LoginIn$LoginInBuilder.class
-insper\ingressify\account\AccountOut.class
-insper\ingressify\account\AccountOut$AccountOutBuilder.class
-insper\ingressify\account\AccountIn.class
+jogayjoga\account\AccountIn.class
+jogayjoga\account\LoginIn.class
+jogayjoga\account\AccountOut.class
+jogayjoga\account\AccountIn$AccountInBuilder.class
+jogayjoga\account\LoginIn$LoginInBuilder.class
+jogayjoga\account\AccountOut$AccountOutBuilder.class
+jogayjoga\account\AccountController.class
