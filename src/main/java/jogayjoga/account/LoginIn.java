@@ -7,4 +7,4 @@ import lombok.experimental.Accessors;
 public record LoginIn(
     String email,
     String password
-) {}
+) { }
